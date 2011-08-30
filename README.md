@@ -41,6 +41,12 @@ HTML
 
 <a id="next" href="#">&gt;</a>
 
+<div id="counter">
+    <span id="counterCurrent">0</span>
+    /
+    <span id="counterTotal">0</span>
+</div>
+
 ```
 
 
