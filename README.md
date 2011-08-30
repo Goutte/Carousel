@@ -10,6 +10,11 @@ This is a simple carousel that uses existing DOM Elements.
 How to use
 ----------
 
+Build your carousel the way you want, style it, and then apply the javascript on it.
+The carousel will change the width of the first child of the carousel element and manipulate its margin-left.
+The other style properties stay untouched.
+
+
 HTML
 
 ``` html
