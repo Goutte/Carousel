@@ -1,7 +1,7 @@
 Carousel
 ========
 
-![Logo](http://github.com/Goutte/Fx.Ticker/raw/master/Docs/fx-ticker.png)
+![Logo](http://github.com/Goutte/Carousel/raw/master/Docs/carousel.jpg)
 
 This is a simple carousel that uses existing DOM Elements.
 
